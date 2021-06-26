@@ -1,1 +1,1 @@
-[GitHub Pages](https://liquidasscontainer.github.io/ra_components_store-func).
+~~[GitHub Pages](https://liquidasscontainer.github.io/ra_components_store-func)~~. Наивно было думать, что оно забилдится без особых усилий (и будет работать). А поскольку такого требования нет, то и ладно (:
